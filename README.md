@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Nicol%C3%A1s%20Llerena&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%26%20Full%20Stack%20Developer%20%C2%B7%20Application%20Security&descSize=17&descAlignY=58" alt="Nicolás Llerena — Backend & Full Stack Developer · Application Security" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Nicol%C3%A1s%20Llerena&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%26amp%3B%20Full%20Stack%20Developer%20%C2%B7%20Application%20Security&descSize=17&descAlignY=58" alt="Nicolás Llerena — Backend & Full Stack Developer · Application Security" width="100%"/>
 </p>
 
 <p align="center">
